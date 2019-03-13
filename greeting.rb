@@ -1,5 +1,5 @@
 def greeting
-  puts "Hello World"
+  puts "Hello World"*5
 end
 
-greeting*5
+greeting
