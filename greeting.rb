@@ -1,5 +1,5 @@
 def greeting
-  puts "Hello World/n"*5
+  puts "Hello World"
 end
 
 greeting
